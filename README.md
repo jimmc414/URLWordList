@@ -1,5 +1,5 @@
 # URLWordList
-# Written by Jim McMillan
+Written by Jim McMillan
 
 This script allows you to count the number of occurrences of each word on a given website and automatically inserts those words into the clipboard.
 
